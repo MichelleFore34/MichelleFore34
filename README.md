@@ -16,9 +16,10 @@
 
 - ⚡ Fun fact **If money did not matter, I’d be hiking the globe and seeing as much of the world as I can. Next on my dream list: New Zealand, Vietnam, and Patagonia.**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/MichelleFore34](https://github.com/MichelleFore34)**
+- 👨‍💻 See all of my projects (https://github.com/MichelleFore34?tab=repositories)
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1hsIdsoz-n3KGCpfnoibiZ-cQxtfzL2uLebmKceB154Y/edit?usp=sharing](https://docs.google.com/document/d/1hsIdsoz-n3KGCpfnoibiZ-cQxtfzL2uLebmKceB154Y/edit?usp=sharing)**
+- 📄 View my resume (https://docs.google.com/document/d/1hsIdsoz-n3KGCpfnoibiZ-cQxtfzL2uLebmKceB154Y/edit?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
