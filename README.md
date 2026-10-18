@@ -2,23 +2,23 @@
 
 ### Data analyst | SQL, Tableau, Python | 15 years of business context
 
-- 🔭 I'm currently working on **Data Analytics certificate (SQL, Tableau, R, Python), plus portfolio projects.**
+- 🔭 I'm currently working on: **Data Analytics certificate (SQL, Tableau, R, Python), plus portfolio projects.**
 
-- 🌱 I'm currently learning **Python for analysis, with machine learning next.**
+- 🌱 I'm currently learning: **Python for analysis, with machine learning next.**
 
-- 👯 I'm looking to collaborate on **Beginner-friendly data projects, especially retail, manufacturing, or CPG analysis.**
+- 👯 I'm looking to collaborate on: **Beginner-friendly data projects, especially retail, manufacturing, or CPG analysis.**
 
-- 🤝 I'm looking for help with **Feedback on my SQL and Tableau projects, and advice on moving from sales into analytics.**
+- 🤝 I'm looking for help with: **Feedback on my SQL and Tableau projects, and advice on moving from sales into analytics.**
 
-- 💬 Ask me about **Enterprise Sales Practices**
+- 💬 Ask me about: **Enterprise Sales Practices**
 
-- 📫 How to reach me **michellemajor.e@gmail.com**
+- 📫 How to reach me: **michellemajor.e@gmail.com**
 
-- ⚡ Fun fact **If money did not matter, I’d be hiking the globe and seeing as much of the world as I can. Next on my dream list: New Zealand, Vietnam, and Patagonia.**
+- ⚡ Fun fact: **If money did not matter, I’d be hiking the globe and seeing as much of the world as I can. Next on my dream list: New Zealand, Vietnam, and Patagonia.**
 
-- 👨‍💻 See all of my projects (https://github.com/MichelleFore34?tab=repositories)
+- 👨‍💻 See all of my projects:(https://github.com/MichelleFore34?tab=repositories)
 
-- 📄 View my resume (https://docs.google.com/document/d/1hsIdsoz-n3KGCpfnoibiZ-cQxtfzL2uLebmKceB154Y/edit?usp=sharing)
+- 📄 View my resume:(https://docs.google.com/document/d/1hsIdsoz-n3KGCpfnoibiZ-cQxtfzL2uLebmKceB154Y/edit?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
