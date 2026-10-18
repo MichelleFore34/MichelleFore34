@@ -1,8 +1,6 @@
-# Hi 👋, I'm Michelle Fore
+# Hi 👋, I'm Michelle Fore <p align="left"><img src="https://komarev.com/ghpvc/?username=MichelleFore34&label=Profile%20views&color=0e75b6&style=flat" alt="MichelleFore34" /></p>
 
 ### Data analyst | SQL, Tableau, Python | 15 years of business context
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=MichelleFore34&label=Profile%20views&color=0e75b6&style=flat" alt="MichelleFore34" /></p>
 
 - 🔭 I'm currently working on **Data Analytics certificate (SQL, Tableau, R, Python), plus portfolio projects.**
 
