@@ -6,7 +6,7 @@
 
 - 👯 I'm looking to collaborate on: **Beginner-friendly data projects, especially retail, manufacturing, or CPG analysis.**
 
-- 🤝 I'm looking for help with: **Feedback on my SQL and Tableau projects, and advice on moving from sales into analytics.**
+- 🤝 I'm looking for help with: **Feedback on my SQL and Tableau projects**
 
 - 💬 Ask me about: **Enterprise Sales Practices**
 
